@@ -83,9 +83,9 @@ python main.py
 
 Ao iniciar o sistema, você pode adicionar músicas informando o título, artista e BPM. Após montar as filas (opção 5), o sistema distribuirá as músicas automaticamente, permitindo que você escolha o "humor" desejado para reproduzir a próxima faixa. Ao rodar o programa, você verá o menu principal:
 
-========================================
+====================================
  SISTEMA DE PLAYLIST
-========================================
+====================================
 1. Adicionar música à biblioteca
 2. Remover música da biblioteca
 3. Buscar música
@@ -96,7 +96,7 @@ Ao iniciar o sistema, você pode adicionar músicas informando o título, artist
 8. Exibir histórico de reproduções
 9. Estatísticas
 10. Sair
-========================================
+====================================
 
 ### 🧪 Exemplo Real de Execução
 
@@ -124,6 +124,7 @@ Projeto desenvolvido para fins acadêmicos.
 ### 👨‍💻 Autora
 
 Ednéia Silva
+
 Estudante de Inteligência Artificial (IA) - Fatec Rio Claro
 Projeto desenvolvido para fins acadêmicos como parte da disciplina "Estrutura de Dados".
 
